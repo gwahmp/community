@@ -1,14 +1,8 @@
 ---
 layout: user
 u: "4465564578"
-n: "Developer"
-t: "test account"
-w: "https://www.fdsgdgghrtj.dsf"
-d: "fghytdjt yju"
-f: ""
-x: ""
-l: ""
-i: ""
-y: ""
+n: "Karthik Subramaniam"
+t: "Mechanical Design Engineer"
 ---
-khkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvk khkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvk
+A mechanical design engineer by profession, Karthik Subramaniam’s expertise lies in CAD modeling and structural analysis. His portfolio includes designing prototypes for automotive parts and optimizing machinery for manufacturing firms. Karthik has worked extensively with tools like SolidWorks and AutoCAD, demonstrating precision and innovation in every project. His designs prioritize efficiency, sustainability, and cost-effectiveness.
+

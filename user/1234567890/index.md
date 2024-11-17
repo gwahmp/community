@@ -1,15 +1,8 @@
 ---
 layout: user
 u: "1234567890"
-n: "Hello world"
-t: "test account"
-w: "https://www.fdsgdgghrtj.dsf"
-d: "fghytdjt yju"
-f: ""
-x: ""
-l: ""
-i: ""
-y: ""
+n: "Arun Krishnan"
+t: "Full-Stack Developer"
 ---
 
-khkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvk khkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvk
+Arun Krishnan is a versatile full-stack developer with expertise in modern JavaScript frameworks like React and Node.js. Based in Coimbatore, his portfolio features custom-built e-commerce platforms, chat applications, and scalable API solutions. Arun takes pride in delivering clean, maintainable code and has a knack for problem-solving in high-pressure environments. His GitHub repository showcases projects ranging from AI-powered tools to open-source contributions in web development.

@@ -1,14 +1,8 @@
 ---
 layout: user
 u: "4564523548"
-n: "Good Morning"
-t: "test account"
-w: "https://www.fdsgdgghrtj.dsf"
-d: "fghytdjt yju"
-f: ""
-x: ""
-l: ""
-i: ""
-y: ""
+n: "Santhosh Kumar"
+t: "Android Developer"
 ---
-khkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvk khkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvk
+Santhosh Kumar is an Android app developer whose portfolio showcases a range of applications, from productivity tools to gaming apps. His flagship project, a fitness tracker app, has garnered thousands of downloads on the Google Play Store. Skilled in Kotlin and Java, Santhosh ensures seamless user experiences and robust functionality in his apps.
+

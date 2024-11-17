@@ -1,14 +1,8 @@
 ---
 layout: user
 u: "7894567894"
-n: "Murugesan"
-t: "test account"
-w: "https://www.fdsgdgghrtj.dsf"
-d: "fghytdjt yju"
-f: ""
-x: ""
-l: ""
-i: ""
-y: ""
+n: "Anjali Sivasubramanian"
+t: "Bharatanatyam choreographer"
 ---
-khkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvk khkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvkkhkfds khkfhgkdf jkhkjhg hkjhfgk khkhvk hkhgvk hkjhdkfv hkhvk hkjhv kjhkvjdf hhkdhvk
+Anjali Sivasubramanian is a Bharatanatyam choreographer who also excels in video production for cultural events. Her portfolio highlights creative short films and event coverage that celebrate South Indian traditions. Anjali’s unique approach combines traditional storytelling with modern cinematography techniques, making her work stand out in the arts community.
+
