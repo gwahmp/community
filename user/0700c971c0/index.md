@@ -8,7 +8,7 @@ dp: "https://lh3.googleusercontent.com/a/ACg8ocI07qQ_bnumnhN54rRrz9Ee0zxeN7rMfGr
 f: "https://facebook.com/selvakumarank"
 x: ""
 l: "http://linkedin.com/in/selvakumaran-krishnan"
-i: ""
+i: "https://www.instagram.com"
 y: ""
 ---
 
