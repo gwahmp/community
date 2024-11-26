@@ -11,7 +11,7 @@ l: "http://linkedin.com/in/selvakumaran-krishnan"
 i: "https://www.instagram.com"
 y: "https://www.youtube.com"
 ---
-Selvakumaran Krishnan developer. test one
+Selvakumaran Krishnan developer. test
 
 
             
